@@ -1,0 +1,3 @@
+ERROR:root:Error al procesar la línea: "{"nombre": "Nissy", "apellido": "Dell Casa", "email": "ndellcasa2@godaddy.com", "genero": "Female"" - Error: Expecting ',' delimiter: line 1 column 99 (char 98)
+ERROR:root:Error al procesar la línea: "{"nombre": "Marj", "apellido": "Impy", email": "mimpy5@youku.com", "genero": "Non-binary"}" - Error: Expecting property name enclosed in double quotes: line 1 column 40 (char 39)
+ERROR:root:Error al procesar la línea: "{"nombre": "Robena", "apellido": "Selcraig", "email": "rselcraig7@jugem.jp", "genero": Female}" - Error: Expecting value: line 1 column 88 (char 87)
